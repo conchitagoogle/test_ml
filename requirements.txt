@@ -1,5 +1,6 @@
 setuptools
 distutils
+python==3.11
 numpy==1.25.1
 pickle-mixin==1.0.2
 streamlit==1.24.1
